@@ -25,3 +25,7 @@ learning resource:
    Group random points with a threshhold slider
      
      https://www.bilibili.com/video/BV1aX4y1N7fi?p=15
+5. File cache and read format.
+   
+   https://www.bilibili.com/video/BV1aX4y1N7fi?p=17
+   
